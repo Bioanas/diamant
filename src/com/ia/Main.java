@@ -19,7 +19,7 @@ public class Main {
             System.out.print(" ");
         }
         for (k = i*2-1; k > 0; k--){
-            System.out.print("x");
+            System.out.print("hhh");
         }
         System.out.println();
     }
